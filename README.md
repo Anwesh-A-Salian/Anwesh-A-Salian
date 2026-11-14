@@ -2,7 +2,6 @@
 
 🎓 B.E. Artificial Intelligence & Machine Learning Student  
 💻 Aspiring Artificial Intelligence & Machine Learning Engineer  
-
 📍 Mangalore, Karnataka, India
 
 I'm an engineering student passionate about building real-world projects, solving problems, and exploring the possibilities of Artificial Intelligence and Machine Learning.
