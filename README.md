@@ -44,8 +44,5 @@ I enjoy working with Python and web technologies while continuously improving my
 
 ---
 
-⭐ Always learning, building, and improving.
-
----
 
 ⭐ *Always learning, building, and improving.*
