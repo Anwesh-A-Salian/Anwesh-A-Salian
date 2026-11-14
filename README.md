@@ -1,7 +1,7 @@
-# Hi, I'm Anwesh A. Salian 👋
+# Hi, I'm Anwesh A Salian 👋
 
 🎓 B.E. Artificial Intelligence & Machine Learning Student  
-💻 Aspiring Software Developer | AI/ML Enthusiast  
+💻 Aspiring Artificial Intelligence & Machine Learning Engineer 
 📍 Mangalore, Karnataka, India
 
 I'm an engineering student passionate about building real-world projects, solving problems, and exploring the possibilities of Artificial Intelligence and Machine Learning.
@@ -11,7 +11,7 @@ I enjoy working with Python and web technologies while continuously improving my
 ### 🛠️ Tech Stack
 
 - **Languages:** Python, C, Java, JavaScript
-- **Web Development:** HTML, CSS, React.js, Node.js
+- **Web Development:** HTML, CSS, React.js
 - **AI/ML:** NumPy, Pandas, Matplotlib, Scikit-learn
 - **Database:** SQL, MySQL
 - **Tools:** Git, GitHub, VS Code
@@ -38,7 +38,7 @@ I enjoy working with Python and web technologies while continuously improving my
 
 ### 🤝 Connect With Me
 
-- 💼 **LinkedIn:** [Anwesh A. Salian](https://www.linkedin.com/in/anwesh-a-salian-342975368/)
+- 💼 **LinkedIn:** [Anwesh A Salian](https://www.linkedin.com/in/anwesh-a-salian-342975368/)
 - 💻 **GitHub:** [Anwesh-A-Salian](https://github.com/Anwesh-A-Salian)
 - 🧩 **LeetCode:** [Anwesh_Salian](https://leetcode.com/u/Anwesh_Salian/)
 
